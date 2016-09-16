@@ -7,7 +7,7 @@ namespace WebApiDocker
     {
         public IEnumerable<string> Get()
         {
-            return new List<string> { "ASP.NET", "Docker", "Windows Containers" };
+            return new List<string> { "ASP.NET", "Docker", "Windows Server Containers" };
         }
     }
 }
